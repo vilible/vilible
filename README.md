@@ -44,16 +44,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="sass logo"  />
 </div>
 
 
 ###
 
 <div>
-  <h3>Tools:</h3>
+  <h3>Tools</h3>
+  <img src="./icons/vscode.svg" height="40" alt="vscode logo">
+  <img width="12" />
+  <img src="./icons/vs.svg" height="40" alt="vs logo">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="./icons/intellij.svg" height="40" alt="intellij logo"  />
 </div>
 
 
