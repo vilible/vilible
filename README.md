@@ -10,7 +10,7 @@
 
 ###
 
-- 🔭 I’m currently working on 🔍[WayFinder](https://github.com/vilible/way_finder)
+- 🔭 I’m currently working on 🔍[PathFinder](https://github.com/vilible/path_finder)
 - 🌱 I’m currently learning [Flutter](https://flutter.dev)
 - 📫 How to reach me: <stefanskip@proton.me>
 
